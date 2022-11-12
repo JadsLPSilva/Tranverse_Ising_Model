@@ -1,0 +1,20 @@
+n96dtau010r1
+96, 192, 0.10, 1.00
+0.82, 0.80, 0.02
+1000000, 30000000, 20
+10
+7460
+
+
+output file name
+linear size, trotter/temporal dimension, trotter number, spatial coupling
+max field, min field, interval
+temperature
+steps1,steps2,nbins
+nskips
+seed
+
+steps1 = # of sweeps for equilibration
+steps2 = # of sweeps for construction magnetization histogram
+nbins   = # of bins for statistics
+nskips = # of skips in MC steps for measurements
