@@ -14,7 +14,7 @@ We use a Monte Carlo method to calculate the ground-state properties of the one-
 
 * Gfortran: gfortran -o (executablename) (file.f90)
 * Check the readisingt.in and change the parameters according to your need and the description in the end of "in" file. 
-* If you run in the TORQUE environment, use the Job_MC.sh making the approprieted changes.
+* If you use TORQUE to submit and manage jobs, use the Job_MC.sh making the approprieted changes.
 * Run: ./executablename
 
 ## Authors
